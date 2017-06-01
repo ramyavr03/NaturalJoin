@@ -1,0 +1,12 @@
+1. Running In IDE
+a> Create a Empty Java Project
+b> Add a new class with the name NaturalJoin
+c> Copy the contents of the NaturalJoin.java from uploaded file to the class
+d> Run as Java Application
+
+2. How to run java source file on Athena or Command Prompt
+a.Using javac complier by running the command ,compile the java file(NaturalJoin.java) 
+	javac NaturalJoin.java
+b.Execute the compiled java code by executing the command
+	java NaturalJoin
+c.Output is displayed on the output screen.
